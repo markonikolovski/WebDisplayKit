@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'WebDisplayKit_Example', :exclusive => true do
+  pod "WebDisplayKit", :path => "../"
+end
+
+target 'WebDisplayKit_Tests', :exclusive => true do
+  pod "WebDisplayKit", :path => "../"
+
+  
+end
