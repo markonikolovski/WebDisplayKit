@@ -1,0 +1,14 @@
+PODS:
+  - WebDisplayKit (0.1.0)
+
+DEPENDENCIES:
+  - WebDisplayKit (from `../`)
+
+EXTERNAL SOURCES:
+  WebDisplayKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WebDisplayKit: cca13720c9f3c7591be5f82511da1d03f84d7737
+
+COCOAPODS: 0.39.0
